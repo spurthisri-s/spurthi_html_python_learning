@@ -1,37 +1,35 @@
 # Python and HTML Learning Journey
 
-Welcome to my learning repository.
+Welcome to my Python and HTML Learning Repository.
 
-This repository contains my daily Python and HTML practice programs, notes, and mini exercises completed while learning programming and web development.
+This repository contains my daily learning progress, practice programs, and exercises completed while learning Python programming and Web Development.
 
-## Learning Progress
+## Learning Timeline
 
-### Day 1
+### Day 1 - Introduction to Python & HTML
 
 #### Python
 
 * Variables
 * Print Statements
-* Basic Input and Output
+* Input and Output
 
 #### HTML
 
-* HTML Structure
+* Basic HTML Structure
 * Headings
 * Paragraphs
 
 ---
 
-### Day 2
+### Day 2 - Data Types & Lists
 
 #### Python
 
-* Data Types
-
-  * String
-  * Integer
-  * Float
-  * Boolean
+* String
+* Integer
+* Float
+* Boolean
 * User Input
 * If-Else Statements
 
@@ -43,30 +41,28 @@ This repository contains my daily Python and HTML practice programs, notes, and 
 
 ---
 
-### Day 3
+### Day 3 - Loops
 
 #### Python
 
-* For Loops
-* While Loops
-* Multiplication Tables
-* Loop Control
+* For Loop
+* While Loop
+* Multiplication Table Program
 
 #### HTML
 
-* Lists
-* Basic Page Structure Practice
+* List Practice
+* Page Structure
 
 ---
 
-### Day 4
+### Day 4 - Functions
 
 #### Python
 
 * Functions
 * Parameters
 * Return Values
-* Function Calls
 
 #### HTML
 
@@ -75,12 +71,11 @@ This repository contains my daily Python and HTML practice programs, notes, and 
 
 ---
 
-### Day 5
+### Day 5 - Lists
 
 #### Python
 
 * Lists
-* List Operations
 * append()
 * len()
 * Iterating Through Lists
@@ -93,7 +88,7 @@ This repository contains my daily Python and HTML practice programs, notes, and 
 
 ---
 
-### Day 6
+### Day 6 - Dictionaries & CSS
 
 #### Python
 
@@ -103,10 +98,45 @@ This repository contains my daily Python and HTML practice programs, notes, and 
 
 #### HTML & CSS
 
-* Introduction to CSS
 * Internal CSS
 * Text Styling
-* Colors and Fonts
+* Colors
+* Fonts
+
+---
+
+### Day 7 - Tuples & Navigation
+
+#### Python
+
+* Tuples
+* Tuple Indexing
+* Iterating Through Tuples
+
+#### HTML
+
+* Hyperlinks
+* Navigation
+* Anchor Tags
+
+---
+
+### Day 8 - Sets & Multimedia
+
+#### Python
+
+* Sets
+* Unique Values
+* add()
+* remove()
+* Set Operations
+
+#### HTML
+
+* Images
+* Audio
+* Video
+* Multimedia Elements
 
 ---
 
@@ -119,18 +149,49 @@ This repository contains my daily Python and HTML practice programs, notes, and 
 * Git
 * GitHub
 
+## Skills Developed
+
+### Python Skills
+
+* Variables
+* Data Types
+* Conditions
+* Loops
+* Functions
+* Lists
+* Dictionaries
+* Tuples
+* Sets
+
+### Web Development Skills
+
+* HTML Structure
+* Forms
+* Tables
+* Lists
+* Images
+* Hyperlinks
+* CSS Styling
+* Multimedia Elements
+
+### Development Tools
+
+* VS Code
+* Git
+* GitHub
+
 ## Learning Goals
 
-* Build Strong Python Fundamentals
+* Build Strong Programming Fundamentals
+* Develop Problem-Solving Skills
 * Learn Web Development Basics
-* Improve Problem Solving Skills
 * Create Real-World Projects
 * Maintain a Professional GitHub Portfolio
 
 ## Repository Structure
 
 ```text
-HP
+spurthi_html_python_learning
 │
 ├── Day01
 ├── Day02
@@ -138,12 +199,14 @@ HP
 ├── Day04
 ├── Day05
 ├── Day06
+├── Day07
+├── Day08
 └── README.md
 ```
 
 ## Author
 
-S. Durga Spurthi Sri
+**S. Durga Spurthi Sri**
 
 B.Sc Computer Science (Final Year)
 
