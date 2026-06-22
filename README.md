@@ -2,11 +2,11 @@
 
 Welcome to my Python and HTML Learning Repository.
 
-This repository contains my daily learning progress, practice programs, and exercises completed while learning Python programming and Web Development.
+This repository contains my daily learning progress, practice programs, and exercises completed while learning Python Programming and Web Development.
 
 ## Learning Timeline
 
-### Day 1 - Introduction to Python & HTML
+### Day 1 - Python Basics & HTML Introduction
 
 #### Python
 
@@ -51,8 +51,8 @@ This repository contains my daily learning progress, practice programs, and exer
 
 #### HTML
 
+* Basic Page Structure
 * List Practice
-* Page Structure
 
 ---
 
@@ -63,6 +63,7 @@ This repository contains my daily learning progress, practice programs, and exer
 * Functions
 * Parameters
 * Return Values
+* Function Calls
 
 #### HTML
 
@@ -71,7 +72,7 @@ This repository contains my daily learning progress, practice programs, and exer
 
 ---
 
-### Day 5 - Lists
+### Day 5 - Lists & Forms
 
 #### Python
 
@@ -140,6 +141,62 @@ This repository contains my daily learning progress, practice programs, and exer
 
 ---
 
+### Day 9 - File Handling & Semantic HTML
+
+#### Python
+
+* File Handling
+* Reading Files
+* Writing Files
+* Appending Data
+
+#### HTML
+
+* Semantic Tags
+* Header
+* Navigation
+* Main
+* Footer
+
+---
+
+### Day 10 - Exception Handling & Responsive Design
+
+#### Python
+
+* Exception Handling
+* try
+* except
+* ValueError
+* ZeroDivisionError
+
+#### HTML
+
+* Responsive Design Basics
+* Viewport Meta Tag
+* CSS Styling
+
+---
+
+### Day 11 - Modules & Flexbox
+
+#### Python
+
+* Modules
+* import Statement
+* User-Defined Modules
+* Built-in Modules
+* Reusable Code
+
+#### HTML & CSS
+
+* Flexbox
+* Layout Design
+* display: flex
+* gap Property
+
+---
+
 ## Technologies Used
 
 * Python 3
@@ -149,64 +206,68 @@ This repository contains my daily learning progress, practice programs, and exer
 * Git
 * GitHub
 
-## Skills Developed
-
-### Python Skills
+## Python Skills Learned
 
 * Variables
 * Data Types
-* Conditions
+* Conditional Statements
 * Loops
 * Functions
 * Lists
 * Dictionaries
 * Tuples
 * Sets
+* File Handling
+* Exception Handling
+* Modules
 
-### Web Development Skills
+## Web Development Skills Learned
 
 * HTML Structure
-* Forms
-* Tables
+* Headings & Paragraphs
 * Lists
 * Images
+* Tables
+* Forms
 * Hyperlinks
-* CSS Styling
 * Multimedia Elements
+* Semantic HTML
+* CSS Styling
+* Responsive Design
+* Flexbox Layout
 
-### Development Tools
+## Development Tools
 
-* VS Code
+* Visual Studio Code
 * Git
 * GitHub
 
 ## Learning Goals
 
 * Build Strong Programming Fundamentals
-* Develop Problem-Solving Skills
-* Learn Web Development Basics
+* Improve Problem-Solving Skills
+* Learn Web Development
 * Create Real-World Projects
 * Maintain a Professional GitHub Portfolio
 
 ## Repository Structure
 
-```text
-spurthi_html_python_learning
-│
-├── Day01
-├── Day02
-├── Day03
-├── Day04
-├── Day05
-├── Day06
-├── Day07
-├── Day08
-└── README.md
-```
+Day01/
+Day02/
+Day03/
+Day04/
+Day05/
+Day06/
+Day07/
+Day08/
+Day09/
+Day10/
+Day11/
+README.md
 
 ## Author
 
-**S. Durga Spurthi Sri**
+S. Durga Spurthi Sri
 
 B.Sc Computer Science (Final Year)
 
