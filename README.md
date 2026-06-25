@@ -4,36 +4,36 @@ Welcome to my Python and HTML Learning Repository.
 
 This repository contains my daily learning progress, practice programs, and exercises completed while learning Python Programming and Web Development.
 
-## Learning Timeline
+---
 
-### Day 1 - Python Basics & HTML Introduction
+# Learning Timeline
 
-#### Python
+## Day 1 - Python Variables & HTML Basics
+
+### Python
 
 * Variables
 * Print Statements
-* Input and Output
+* User Input
 
-#### HTML
+### HTML
 
-* Basic HTML Structure
+* HTML Structure
 * Headings
 * Paragraphs
 
 ---
 
-### Day 2 - Data Types & Lists
+## Day 2 - Data Types & HTML Lists
 
-#### Python
+### Python
 
 * String
 * Integer
 * Float
 * Boolean
-* User Input
-* If-Else Statements
 
-#### HTML
+### HTML
 
 * Ordered Lists
 * Unordered Lists
@@ -41,80 +41,77 @@ This repository contains my daily learning progress, practice programs, and exer
 
 ---
 
-### Day 3 - Loops
+## Day 3 - Loops
 
-#### Python
+### Python
 
 * For Loop
 * While Loop
 * Multiplication Table Program
 
-#### HTML
+### HTML
 
-* Basic Page Structure
-* List Practice
+* Lists Practice
+* Basic Page Layout
 
 ---
 
-### Day 4 - Functions
+## Day 4 - Functions & HTML Tables
 
-#### Python
+### Python
 
 * Functions
 * Parameters
 * Return Values
-* Function Calls
 
-#### HTML
+### HTML
 
 * Tables
 * Rows and Columns
 
 ---
 
-### Day 5 - Lists & Forms
+## Day 5 - Lists & Forms
 
-#### Python
+### Python
 
 * Lists
-* append()
-* len()
-* Iterating Through Lists
+* List Operations
+* Iteration
 
-#### HTML
+### HTML
 
 * Forms
 * Input Fields
-* Submit Buttons
+* Buttons
 
 ---
 
-### Day 6 - Dictionaries & CSS
+## Day 6 - Dictionaries & CSS Basics
 
-#### Python
+### Python
 
 * Dictionaries
 * Key-Value Pairs
 * Dictionary Operations
 
-#### HTML & CSS
+### HTML/CSS
 
 * Internal CSS
-* Text Styling
 * Colors
 * Fonts
+* Text Styling
 
 ---
 
-### Day 7 - Tuples & Navigation
+## Day 7 - Tuples & Navigation
 
-#### Python
+### Python
 
 * Tuples
-* Tuple Indexing
-* Iterating Through Tuples
+* Tuple Operations
 
-#### HTML
+### HTML
 
 * Hyperlinks
 * Navigation
@@ -122,17 +119,15 @@ This repository contains my daily learning progress, practice programs, and exer
 
 ---
 
-### Day 8 - Sets & Multimedia
+## Day 8 - Sets & Multimedia
 
-#### Python
+### Python
 
 * Sets
-* Unique Values
-* add()
-* remove()
+* Unique Data Storage
 * Set Operations
 
-#### HTML
+### HTML
 
 * Images
 * Audio
@@ -141,63 +136,109 @@ This repository contains my daily learning progress, practice programs, and exer
 
 ---
 
-### Day 9 - File Handling & Semantic HTML
+## Day 9 - File Handling & Semantic HTML
 
-#### Python
+### Python
 
 * File Handling
-* Reading Files
-* Writing Files
-* Appending Data
+* Read Files
+* Write Files
+* Append Data
 
-#### HTML
+### HTML
 
-* Semantic Tags
 * Header
-* Navigation
 * Main
 * Footer
+* Semantic Tags
 
 ---
 
-### Day 10 - Exception Handling & Responsive Design
+## Day 10 - Exception Handling & Responsive Design
 
-#### Python
+### Python
 
-* Exception Handling
 * try
 * except
 * ValueError
 * ZeroDivisionError
 
-#### HTML
+### HTML/CSS
 
-* Responsive Design Basics
-* Viewport Meta Tag
+* Responsive Design
+* Viewport
 * CSS Styling
 
 ---
 
-### Day 11 - Modules & Flexbox
+## Day 11 - Modules & Flexbox
 
-#### Python
+### Python
 
 * Modules
 * import Statement
-* User-Defined Modules
 * Built-in Modules
-* Reusable Code
 
-#### HTML & CSS
+### HTML/CSS
 
 * Flexbox
 * Layout Design
-* display: flex
-* gap Property
+* Responsive Structure
 
 ---
 
-## Technologies Used
+## Day 12 - Object-Oriented Programming (OOP)
+
+### Python
+
+* Classes
+* Objects
+* Constructors
+* Methods
+
+### HTML/CSS
+
+* Registration Form
+* Form Styling
+* Input Design
+
+---
+
+## Day 13 - Inheritance & Navigation Bar
+
+### Python
+
+* Inheritance
+* Parent Class
+* Child Class
+* super()
+
+### HTML/CSS
+
+* Navigation Bar
+* Hover Effects
+* Website Layout
+
+---
+
+## Day 14 - Polymorphism & Profile Card Design
+
+### Python
+
+* Polymorphism
+* Method Overriding
+* OOP Concepts
+
+### HTML/CSS
+
+* Profile Cards
+* Box Shadow
+* Border Radius
+* Card Design
+
+---
+
+# Technologies Used
 
 * Python 3
 * HTML5
@@ -206,69 +247,128 @@ This repository contains my daily learning progress, practice programs, and exer
 * Git
 * GitHub
 
-## Python Skills Learned
+---
+
+# Python Concepts Covered
+
+## Core Python
 
 * Variables
 * Data Types
+* User Input
 * Conditional Statements
 * Loops
 * Functions
+
+## Data Structures
+
 * Lists
 * Dictionaries
 * Tuples
 * Sets
+
+## Intermediate Python
+
 * File Handling
 * Exception Handling
 * Modules
 
-## Web Development Skills Learned
+## Object-Oriented Programming
 
-* HTML Structure
-* Headings & Paragraphs
+* Classes
+* Objects
+* Constructors
+* Inheritance
+* Polymorphism
+
+---
+
+# HTML & CSS Concepts Covered
+
+## HTML
+
+* Structure
+* Headings
+* Paragraphs
 * Lists
 * Images
 * Tables
 * Forms
 * Hyperlinks
-* Multimedia Elements
+* Multimedia
 * Semantic HTML
-* CSS Styling
-* Responsive Design
-* Flexbox Layout
 
-## Development Tools
+## CSS
+
+* Colors
+* Fonts
+* Styling
+* Responsive Design
+* Flexbox
+* Navigation Bars
+* Profile Cards
+
+---
+
+# Tools Used
 
 * Visual Studio Code
 * Git
 * GitHub
 
-## Learning Goals
+---
+
+# Learning Goals
 
 * Build Strong Programming Fundamentals
-* Improve Problem-Solving Skills
 * Learn Web Development
-* Create Real-World Projects
-* Maintain a Professional GitHub Portfolio
+* Improve Problem-Solving Skills
+* Develop Real-World Projects
+* Create a Professional GitHub Portfolio
 
-## Repository Structure
+---
 
-Day01/
-Day02/
-Day03/
-Day04/
-Day05/
-Day06/
-Day07/
-Day08/
-Day09/
-Day10/
-Day11/
-README.md
+# Repository Structure
 
-## Author
+HP/
 
-S. Durga Spurthi Sri
+├── Day01/
+
+├── Day02/
+
+├── Day03/
+
+├── Day04/
+
+├── Day05/
+
+├── Day06/
+
+├── Day07/
+
+├── Day08/
+
+├── Day09/
+
+├── Day10/
+
+├── Day11/
+
+├── Day12/
+
+├── Day13/
+
+├── Day14/
+
+└── README.md
+
+---
+
+# Author
+
+**S. Durga Spurthi Sri**
 
 B.Sc Computer Science (Final Year)
 
 GitHub: https://github.com/spurthisri-s
+
